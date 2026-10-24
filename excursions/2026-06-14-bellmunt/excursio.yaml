@@ -1,0 +1,47 @@
+titol: Santuari de Bellmunt
+data: 2026-06-14
+lloc: Coll de Vidrà
+comarca: Osona
+circular: false
+resum: Del Coll de Vidrà al Santuari de Bellmunt pel Collet del Llop i el Coll de Migdia, amb dinar de pícnic.
+
+descripcio: |
+  Excursió d'anada i tornada des del Coll de Vidrà fins al Santuari de Bellmunt, passant pel Collet del Llop i el Coll de Migdia, seguint el GR 3. La tornada es fa pel mateix camí.
+
+  Vam dinar de pícnic (carmanyola), ja que es va descartar el restaurant del santuari per dificultats de reserva.
+
+  El track del mapa és una reconstrucció feta a partir dels punts de pas, seguint els camins d'OpenStreetMap; no és l'enregistrament GPS de la sortida.
+
+ruta:
+  - Coll de Vidrà
+  - Collet del Llop
+  - Coll de Migdia
+  - Santuari de Bellmunt
+  - Coll de Migdia
+  - Collet del Llop
+  - Coll de Vidrà
+
+distancia_km: 7.1
+desnivell_m: 185
+durada: Unes 5 hores (11 h – 16 h), amb dinar
+transport: Cotxes particulars
+punt_de_trobada: Coll de Vidrà, a les 11 h (ja esmorzats). Hi ha poc lloc per aparcar; si cal, es deixen els cotxes al poble de Vidrà i es puja amb un de sol.
+que_cal_portar:
+  - Aigua
+  - Bon calçat
+  - Dinar de pícnic
+
+# Edats dels nens el dia de l'excursió (només números, sense noms)
+edats: [6,10]
+
+organitzador:
+  nom: AE Icària — Grup de Famílies
+
+# Track reconstruït a partir del cartell i d'OpenStreetMap (GR 3), no és un enregistrament GPS
+gpx: track.gpx
+
+enllacos:
+  - titol: Descripció de la ruta a Eoliumtrek
+    url: http://eoliumtrek.cat/index.php/catalunya/osona/601-vidra-collet-de-migdia-coll-hi-era-de-massa-santuari-mare-de-deu-de-bellmunt
+
+notes:
