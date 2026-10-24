@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="ca">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Excursions amb nens</title>
+  <meta name="description" content="Recull d'excursions fetes en família: descripció, recorregut, mapa i edats dels nens.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🥾</text></svg>">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+  <script type="module" src="assets/js/llistat.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="./">Excursions amb nens</a>
+    </div>
+  </header>
+  <main class="wrap">
+    <section class="hero">
+      <h1>Les nostres excursions</h1>
+      <p>Sortides fetes en família, amb el recorregut, el mapa i les edats que tenien els nens.</p>
+    </section>
+    <form id="filtres" class="filters" role="search" hidden>
+      <label class="f-search">
+        <span>Cerca</span>
+        <input type="search" name="q" placeholder="Lloc, castell, font…" autocomplete="off">
+      </label>
+      <label>
+        <span>Any</span>
+        <select name="any"><option value="">Tots</option></select>
+      </label>
+      <label>
+        <span>Comarca</span>
+        <select name="comarca"><option value="">Totes</option></select>
+      </label>
+      <label>
+        <span>Distància</span>
+        <select name="dist">
+          <option value="">Totes</option>
+          <option value="0-5">Fins a 5 km</option>
+          <option value="5-10">De 5 a 10 km</option>
+          <option value="10-">Més de 10 km</option>
+        </select>
+      </label>
+      <label title="Mostra les excursions que ja va fer algun nen d'aquesta edat o més petit">
+        <span>Apta per a</span>
+        <select name="edat"><option value="">Qualsevol</option></select>
+      </label>
+      <label>
+        <span>Ordre</span>
+        <select name="ordre">
+          <option value="">Més recents</option>
+          <option value="antigues">Més antigues</option>
+          <option value="curtes">Més curtes</option>
+          <option value="llargues">Més llargues</option>
+        </select>
+      </label>
+      <div class="f-footer">
+        <p id="comptador" class="muted" aria-live="polite"></p>
+        <button type="reset" class="f-reset" hidden>Esborra els filtres</button>
+      </div>
+    </form>
+    <div id="llistat" class="cards" aria-live="polite">
+      <p class="muted">Carregant…</p>
+    </div>
+  </main>
+  <footer class="site-footer wrap">
+    <p>Web estàtica allotjada a GitHub Pages.</p>
+  </footer>
+</body>
+</html>

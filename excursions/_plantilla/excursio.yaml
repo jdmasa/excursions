@@ -1,0 +1,45 @@
+# Plantilla d'excursió. Copia aquesta carpeta a excursions/AAAA-MM-DD-lloc/
+# (les carpetes que comencen per "_" no es publiquen al llistat).
+# Els camps marcats com a opcionals es poden esborrar.
+
+titol: Nom de l'excursió
+data: 2026-01-31              # AAAA-MM-DD
+lloc: Poble o punt de sortida
+comarca: la comarca           # opcional
+tipus: Matinal                # opcional: Matinal, Tot el dia, Tarda...
+circular: true                # opcional
+resum: Una frase curta per a la fitxa del llistat.
+
+descripcio: |
+  Primer paràgraf de la descripció.
+
+  Segon paràgraf (separa els paràgrafs amb una línia en blanc).
+
+ruta:                         # opcional: punts de pas en ordre
+  - Inici
+  - Punt intermedi
+  - Final
+
+distancia_km: 5.2             # opcional: si no hi és, es calcula del GPX
+desnivell_m: 150              # opcional: si no hi és, es calcula del GPX
+durada: 2-3 hores             # opcional
+transport: Cotxe              # opcional
+punt_de_trobada: On quedem    # opcional
+que_cal_portar:               # opcional
+  - Esmorzar
+  - Aigua
+
+edats: [4, 7]                 # edats dels nens el dia de l'excursió
+
+organitzador:                 # opcional
+  nom: Nom de l'entitat
+  url: https://...
+
+gpx: track.gpx                # opcional: fitxer dins la mateixa carpeta
+
+enllacos:                     # opcional
+  - titol: Ruta a Wikiloc
+    url: https://...
+
+notes: |                      # opcional: impressions, consells...
+  Què els va agradar més, on vam dinar, etc.

@@ -1,0 +1,49 @@
+titol: Castell de la Popa
+data: 2026-10-11
+lloc: Castellcir
+comarca: el Moianès
+tipus: Matinal
+circular: true
+resum: Castell medieval en runes damunt d'una mola rocosa, entre camps de cereals i boscos d'alzines, roures i pins.
+
+descripcio: |
+  El castell de Castellcir (conegut com a Castell de la Popa per la mola rocosa sobre la qual reposa) és una construcció medieval imponent, tot i que ara està en runes.
+
+  S'hi arriba seguint l'antiga pista del castell, a través de camps de cereals i boscos d'alzines, roures i pins. La tornada es fa pel Pla de la Bruga i el Serrat del Colom, des d'on hi ha unes bones vistes del castell.
+
+ruta:
+  - Castellcir
+  - Font del Roure
+  - Ca l'Antoja
+  - Torrassa dels Moros
+  - Castell de la Popa
+  - Pla de la Bruga
+  - Serrat del Colom
+  - Torrassa dels Moros
+  - Ca l'Antoja
+  - Font del Roure
+  - Castellcir
+
+distancia_km: 9.8
+desnivell_m: 264
+durada: 3-4 hores, incloses les pauses
+transport: Cotxes particulars
+punt_de_trobada: Aparcaments de l'escola bressol «El Petit Camacurt» i el centre de jocs «El Pi Gros», al principi de l'avinguda de Santa Coloma (Castellcir)
+que_cal_portar:
+  - Esmorzar
+  - Aigua
+
+# Edats dels nens el dia de l'excursió (només números, sense noms)
+edats: [6,10]
+
+organitzador:
+  nom: AE Icària — Excursions en Família
+
+gpx: track.gpx
+
+enllacos:
+  - titol: Ruta a Wikiloc
+    url: https://loc.wiki/t/1277428?wa=sc
+
+notes:
+  Al arribar a la bifurcació, vam trobar un cartell que indicava que el camí cap al castell estava tancat per obres. Vam haver de fer servir el mateix camí per pujar i baixar del castell, cosa que va fer que l'excursió fos més llarga del previst. Tot i això, vam gaudir de les vistes i de la natura al llarg del recorregut.

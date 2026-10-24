@@ -1,0 +1,7 @@
+# Generat per scripts/build-index.mjs (local i a l'Action)
+excursions/index.json
+
+# Cartells originals amb dades privades (IBAN, contactes...)
+/*.pdf
+
+.DS_Store
