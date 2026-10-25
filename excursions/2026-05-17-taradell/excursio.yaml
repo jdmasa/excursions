@@ -3,11 +3,13 @@ data: 2026-05-17
 lloc: Taradell
 comarca: Osona
 tipus: Matinal
-circular: false
+circular: true
 resum: Caminada fàcil i plana per indrets de gran bellesa, visitant les Cuines d'en Rocaguinarda i el Castell de can Boix.
 
 descripcio: |
   La caminada transcorre per indrets de gran bellesa, passant per les Cuines d’en Rocaguinarda, un lloc amb llegenda sobre un bandoler del segle XVII que s’hi amagava. S'arribarà al castell de Boix, també conegut com a Castell de Taradell, des d'on es gaudirà de panoràmiques de la zona. Després de visitar el castell, es tornarà al punt de sortida per un corriol.
+
+  El track del mapa és una reconstrucció feta a partir dels punts de pas, seguint els camins d'OpenStreetMap; no és l'enregistrament GPS de la sortida.
 
 ruta:
   - Taradell
@@ -15,8 +17,8 @@ ruta:
   - Castell de can Boix
   - Taradell
 
-distancia_km: 10.1
-desnivell_m: 304
+distancia_km: 12.3
+desnivell_m: 555
 durada: 4 hores aprox.
 transport: Cotxes particulars
 punt_de_trobada: 9.30h davant de l’Església de sant Genis (Taradell)
@@ -32,4 +34,5 @@ edats: [6, 10]
 organitzador:
   nom: Grup de Famílies
 
+# Track reconstruït a partir dels punts de pas i d'OpenStreetMap, no és un enregistrament GPS
 gpx: track.gpx
