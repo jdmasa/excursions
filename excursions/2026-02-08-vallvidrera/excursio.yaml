@@ -1,0 +1,36 @@
+titol: Vallvidrera
+data: 2026-02-08
+lloc: Vallvidrera
+comarca: Barcelonès
+tipus: Matinal
+resum: Excursió a Vallvidrera amb transport públic, gaudint de vistes de la ciutat i del Baix Llobregat, amb opció de visitar els jardins o l'interior del Palau Reial.
+
+descripcio: |
+  L'excursió transcorre per una pista no asfaltada sense cap dificultat especial. Es destaca l'esplèndida vista de la ciutat des del Funicular, i del Baix Llobregat durant la baixada. Hi ha llocs adequats per a esmorzar assolellats durant el recorregut. Opcionalment, a l'arribada, es pot visitar els jardins del Palau Reial (gratis) i/o l'interior del Palau (de pagament).
+
+  El track del mapa és una reconstrucció feta a partir dels punts de pas, seguint els camins d'OpenStreetMap; no és l'enregistrament GPS de la sortida.
+
+ruta:
+  - Vallvidrera (Estació superior del Funicular)
+  - Plaça Mireia (Esplugues)
+  - Mirador dels Xiprers (Barcelona)
+  - Palau Reial de Pedralbes
+
+distancia_km: 8.5
+desnivell_m: 300
+transport: Transport públic (tren FGC i funicular de Vallvidrera, metro línia 3)
+punt_de_trobada: 9.30h a l'estació de Provença del FGC (al seu interior, a l'andana en direcció a Sarrià, Terrassa i Sabadell)
+
+que_cal_portar:
+  - Esmorzar
+  - Aigua
+  - Bon calçat
+
+# Edats dels nens el dia de l'excursió (només números, sense noms)
+edats: []
+
+organitzador:
+  nom: Grup de Famílies
+
+# Track reconstruït a partir dels punts de pas i d'OpenStreetMap, no és un enregistrament GPS
+gpx: track.gpx
