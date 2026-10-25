@@ -28,7 +28,7 @@ que_cal_portar:
   - Bon calçat
 
 # Edats dels nens el dia de l'excursió (només números, sense noms)
-edats: [6, 10]
+edats: [5, 9]
 
 organitzador:
   nom: AE Icària — Excursions en Família
