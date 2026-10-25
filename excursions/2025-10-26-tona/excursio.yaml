@@ -1,0 +1,39 @@
+titol: Turons de Tona
+data: 2025-10-26
+lloc: Tona
+comarca: Osona
+tipus: Matinal
+circular: true
+resum: Passeig circular pels voltants de Tona amb una forta baixada des del Castell i bones vistes de la comarca.
+
+descripcio: |
+  Es tracta d'un bonic passeig circular pels voltants de Tona. La ruta inclou una forta baixada des del Castell, per la qual cosa és recomanable anar ben calçat. Des del castell es gaudeix d'una molt bona vista sobre tota la comarca. El castell està ben conservat, especialment el mantell vegetal, ja que no es permet la pujada en cotxe.
+
+  El lloc és ideal per dinar i oferix un bon espai perquè els nens i nenes puguin jugar.
+
+ruta:
+  - Parc Roqueta
+  - Camí Ral de Manresa a Vic
+  - Torrent de Sant Cugat
+  - Castell de Tona
+  - Passeig de la Suïssa
+  - Parc Roqueta
+
+distancia_km: 5.5
+desnivell_m: 100
+durada: 4 h aprox
+transport: Cotxes particulars
+punt_de_trobada: 10:00 h al Parc de la Roqueta de Tona
+
+que_cal_portar:
+  - Dinar
+  - Aigua
+  - Bon calçat
+
+# Edats dels nens el dia de l'excursió (només números, sense noms)
+edats: [5, 9]
+
+organitzador:
+  nom: Grup de Famílies
+
+gpx: track.gpx
