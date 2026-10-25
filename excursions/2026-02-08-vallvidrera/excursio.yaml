@@ -27,7 +27,7 @@ que_cal_portar:
   - Bon calçat
 
 # Edats dels nens el dia de l'excursió (només números, sense noms)
-edats: []
+edats: [6, 10]
 
 organitzador:
   nom: Grup de Famílies
