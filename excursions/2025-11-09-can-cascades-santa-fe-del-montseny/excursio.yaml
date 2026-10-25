@@ -1,0 +1,35 @@
+titol: Roc Perer
+data: 2025-11-09
+lloc: Can Cascades (Santa Fe del Montseny)
+tipus: Tot el dia
+circular: true
+resum: Bonic recorregut curt per un bosc de fulla caduca amb vistes panoràmiques i zona de pícnic a Santa Fe.
+
+descripcio: |
+  Durant la Tardor, és especialment bonic caminar pel mig d’un bosc de fulla caduca, amb els colors groguencs que adquireixen els faigs en aquesta estació. Aquest és el principal atractiu d’aquest bonic i curt recorregut que, a més, té molt bones vistes en alguns punts. El recorregut transcorre per pista no asfaltada, sense cap mena de risc. S'inclou una zona de pícnic a Santa Fe on es pot dinar de carmanyola i jugar els nens si el temps ho permet. Al final del recorregut es pot visitar el Centre d’Interpretació de can Cascades per veure un audiovisual sobre el Parc Natural.
+
+ruta:
+  - Can Cascades (Santa Fe del Montseny)
+  - El camps
+  - Roc Perer
+  - Sot dels Verns
+  - Can Cascades (Santa Fe del Montseny)
+
+distancia_km: 5
+desnivell_m: 250
+durada: 2h 30 minuts
+transport: Cotxes particulars
+punt_de_trobada: 10:30 h a can Cascades
+
+que_cal_portar:
+  - Dinar
+  - Aigua
+  - Bon calçat
+
+# Edats dels nens el dia de l'excursió (només números, sense noms)
+edats: []
+
+organitzador:
+  nom: AE Icària — Excursions en Família
+
+gpx: track.gpx
