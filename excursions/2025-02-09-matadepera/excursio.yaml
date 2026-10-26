@@ -1,0 +1,35 @@
+titol: Monestir de Sant Llorenç
+data: 2025-02-09
+lloc: Matadepera
+comarca: Vallès Occidental
+tipus: Matinal
+resum: Excursió per un antic camí ral cap al Monestir de Sant Llorenç, amb visita breu al monestir i parada per esmorzar.
+
+descripcio: |
+  L'excursió comença al dipòsit d'aigües de Matadepera i segueix el camí ral o camí dels monjos cap al Monestir de Sant Llorenç. El camí és en pujada i empedrat en alguns trams. El monestir, tot i estar sense ús, es troba en bon estat i és de gran bellesa, custodiat pels agents rurals del Parc Natural. Anteriorment hi havia un restaurant, però va tancar fa un any.
+
+ruta:
+  - Matadepera (dipòsit d’aigües)
+  - Font del Saüc
+  - Monestir de Sant Llorenç
+  - Cova de l’Hort dels Monjos
+  - Matadepera (dipòsit d’aigües)
+
+distancia_km: 6.9
+desnivell_m: 442
+durada: 3 h aproximadament
+transport: Cotxes particulars
+punt_de_trobada: 9:00 h a Matadepera, dipòsit d’aigües. S’enviarà ubicació a tots els inscrits.
+
+que_cal_portar:
+  - Esmorzar
+  - Aigua
+  - Bon calçat
+
+# Edats dels nens el dia de l'excursió (només números, sense noms)
+edats: []
+
+organitzador:
+  nom: AE Icària
+
+gpx: track.gpx
