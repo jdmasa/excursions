@@ -1,0 +1,42 @@
+titol: Puigsacalm
+data: 2025-04-06
+lloc: Puigsacalm
+comarca: Garrotxa
+tipus: Tot el dia
+circular: true
+resum: Excursió per la collada de Bracons amb vistes esplèndides i opció de pujar al puig dels llops.
+
+descripcio: |
+  L'excursió comença endinsant-se en una zona ombrívola de boscos frondosos (faig, grèvol) que forma part del vessant est de la Serra de Curull. En arribar a la collada de Sant Bartomeu, passem a vessant de Vidrà de la mateixa serra, i continuem planejant fins a la font Tornadissa. Allà comencem a pujar fins als Rasos de Manter. El paisatge llavors canvia a prats subalpins fins a la pujada forta però curta just abans d’arribar al cim, on ens esperen unes vistes esplèndides. Hi ha l'opció d'arribar fins puig dels llops (+ 2 km aprox.).
+
+ruta:
+  - Collada de Bracons
+  - Collada de Sant Bartomeu
+  - Font Tornadissa
+  - Rasos de Manter
+  - Puigsacalm
+  - Rasos de Manter
+  - Font Tornadissa
+  - Collada de Sant Bartomeu
+  - Collada de Bracons
+
+distancia_km: 8.2
+desnivell_m: 442
+durada: 3-4 hores
+transport: Cotxes particulars
+punt_de_trobada: S'enviarà ubicació a participants inscrits
+
+que_cal_portar:
+  - Dinar
+  - Aigua
+  - Bon calçat
+  - Roba d’abric
+  - Impermeable
+
+# Edats dels nens el dia de l'excursió (només números, sense noms)
+edats: [5, 9]
+
+organitzador:
+  nom: Grup de Famílies
+
+gpx: track.gpx
