@@ -1,0 +1,36 @@
+titol: La Trona
+data: 2025-06-15
+lloc: Valldeneu
+comarca: Vallès Oriental
+tipus: Tot el dia
+circular: true
+resum: Excursió a la Trona i pels Cingles del Berti, amb bones vistes del Montseny, si el temps ho permet.
+
+descripcio: |
+  L'excursió comença a Sant Pere de Valldeneu i ascendeix a la Trona, seguint un sender enmig del bosc. Després, es fa una passejada panoràmica pel cantó del Cingle fins al Mirador de Can Tresquarts, baixant en pista fins a Can Oller i tornant a Sant Pere de Valldeneu.
+
+ruta:
+  - Ermita de Sant Pere de Valldeneu
+  - Pujada a la Trona
+  - Mirador de Can Tresquarts
+  - Can Oller
+  - Sant Pere de Valldeneu
+
+distancia_km: 9.5
+desnivell_m: 436
+durada: 4 h aproximadament
+transport: Cotxes particulars
+punt_de_trobada: 9:30 h a Sant Pere de Valldeneu
+
+que_cal_portar:
+  - Esmorzar
+  - Aigua
+  - Bon calçat
+
+# Edats dels nens el dia de l'excursió (només números, sense noms)
+edats: [5, 9]
+
+organitzador:
+  nom: Grup de Famílies
+
+gpx: track.gpx
