@@ -1,0 +1,39 @@
+titol: Ermita de la Trinitat
+data: 2025-01-19
+lloc: Collet de la Fita
+comarca: Garraf
+tipus: Matinal
+circular: true
+resum: Excursió fàcil per la muntanya del Garraf, apta per a totes les edats, amb parada per esmorzar.
+
+descripcio: |
+  L'excursió transcorre per la muntanya del Garraf, amb un itinerari fàcil apte per a totes les edats. Es recomana portar bon calçat per caminar per la muntanya i motxilla, evitant bosses penjant. La ruta inclou una parada per esmorzar.
+
+  El track del mapa és una reconstrucció feta a partir dels punts de pas, seguint els camins d'OpenStreetMap; no és l'enregistrament GPS de la sortida.
+
+ruta:
+  - Collet de la Fita
+  - Penya del Llamp
+  - Ermita de la Trinitat
+  - Puig d’en Boronat
+  - Creu de St. Isidre
+  - Collet de la Fita
+
+distancia_km: 9.5
+desnivell_m: 250
+durada: 3 h aproximadament, més parades
+transport: Cotxes particulars
+punt_de_trobada: 9:00 h Collet de la Fita. S’enviarà ubicació a tots els inscrits.
+
+que_cal_portar:
+  - Esmorzar
+  - Aigua
+
+# Edats dels nens el dia de l'excursió (només números, sense noms)
+edats: [4, 8]
+
+organitzador:
+  nom: Grup de Famílies
+
+# Track reconstruït a partir dels punts de pas i d'OpenStreetMap, no és un enregistrament GPS
+gpx: track.gpx
