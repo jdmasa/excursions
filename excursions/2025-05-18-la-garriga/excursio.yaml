@@ -1,0 +1,41 @@
+titol: Poblat Ibèric del Puig del Castell
+data: 2025-05-18
+lloc: La Garriga
+comarca: Vallès Oriental
+tipus: Matinal
+circular: true
+resum: Excursió per pistes i sender local al Puig del Castell, amb vistes al Vallès Oriental i possible espai per jugar a pilota.
+
+descripcio: |
+  L'excursió comença a La Garriga, seguint la Ronda del carril, un passeig paral·lel a la via del tren amb cases modernistes ben conservades. Després, es segueix per pistes entre oliveres i ametllers fins a Samalús. Des d'allà, s'agafa un sender local (SL-C89) que puja fins a Lauro, el poblat del Puig del Castell, on es disposa d'una àmplia perspectiva del Vallès Oriental. La tornada es fa pel mateix camí, amb una parada al costat del Centre Cívic per dinar i, possiblement, jugar a pilota.
+
+ruta:
+  - La Garriga
+  - Ronda del carril
+  - Samalús
+  - Puig del Castell (Lauro)
+  - Centre Cívic
+  - Samalús
+  - La Garriga
+
+distancia_km: 15
+desnivell_m: 467
+durada: 16 h aprox
+transport: Cotxes particulars
+punt_de_trobada: 9.30 h Ronda del Carril cantonada carrer Bosc
+
+que_cal_portar:
+  - Dinar
+  - Aigua
+  - Bon calçat
+
+# Edats dels nens el dia de l'excursió (només números, sense noms)
+edats: [5, 9]
+
+organitzador:
+  nom: Grup de Famílies
+
+gpx: track.gpx
+
+notes: |
+  El petit, amb cinc anys acabats de fer, no va poder acabar. Vam haver d'esperar al Centre Cívic mentre la resta del grup feia la pujada al Poblat ibèric.
